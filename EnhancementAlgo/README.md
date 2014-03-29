@@ -3,8 +3,7 @@ ImageProcessing
 
 Image processing algorithms implementation
 
-The ImageProcessing .vproj is available along with the source files.
-The homework_1.cpp file is the main file in which all the other subroutines are called.
+The ImageAlgoMain.cpp file is the main file in which all the other subroutines are called.
 processImage.h is the header file common to all the .cpp files. In this file the class variables are defined and the headers are declared.
 The reading and writing the files are done in the IOfunctionality.cpp.
 Enhancement algorithms are defined in ImageEnhancement.cpp
